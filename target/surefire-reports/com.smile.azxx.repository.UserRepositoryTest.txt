@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.smile.azxx.repository.UserRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.456 s <<< FAILURE! - in com.smile.azxx.repository.UserRepositoryTest
+test(com.smile.azxx.repository.UserRepositoryTest)  Time elapsed: 0.443 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<bb[]> but was:<bb[123456]>
+	at com.smile.azxx.repository.UserRepositoryTest.test(UserRepositoryTest.java:31)
+
